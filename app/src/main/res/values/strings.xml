@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animate</string>
+    <string name="rotate_linear_interpolator">rotate 의 linear_interpolator 모드입니다.</string>
+    <string name="rotate_accelerate_interpolator">rotate 의 accelerate_interpolator 모드입니다.</string>
+    <string name="rotate_decelerate_interpolator">rotate 의 decelerate_interpolator 모드입니다.</string>
+    <string name="rotate_accelerate_decelerate_interpolator">rotate 의 accelerate_decelerate_interpolator 모드입니다.</string>
+    <string name="rotate_overshoot_interpolator">rotate 의 overshoot_interpolator 모드입니다.</string>
+    <string name="rotate_bounce_interpolator">rotate 의 bounce_interpolator 모드입니다.</string>
+    <string name="rotate_cycle_interpolator">rotate 의 cycle_interpolator 모드입니다.</string>
+
+</resources>
