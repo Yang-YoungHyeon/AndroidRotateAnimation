@@ -9,7 +9,7 @@ Test Sample
 5. overshoot_interpolator (1000ms ~ 5000ms)
 6. bounce_interpolator (1000ms ~ 5000ms)
 7. cycle_interpolator (1000ms ~ 5000ms)
-
+```
 android:interpolator= [ interpolator Type ]
 android:repeatCount= [ Loop Count ] // dafualt=0, infinite=while
 android:duration= [ rotate Time ]
@@ -17,6 +17,7 @@ android:pivotX= [ start X pivot point ] // 0% = left top , 100% = right top
 android:pivotY= [ start Y pivot point ] // 0% = left top , 100% = left bottom
 android:fromDegrees= [Integer]
 android:toDegrees= [Integer ]
+```
 
 #TEST XML
 ```
